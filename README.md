@@ -2,6 +2,17 @@
 ###  welcome to my github account
 - ⚡ I’m currently learning JAVA , C# , C++ , Android
 -  💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
+
+
+<table width="800px">
+<tr>
+
+<td valign="top" width="40%">
+  
+![ChaimaeBougattaya 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaimaeBougattaya &show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
+
+</td>
+
 <!--
 **ChaimaeBougattaya/ChaimaeBougattaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
