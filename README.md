@@ -1,6 +1,6 @@
 ###  Hi there 👋
 ###  welcome to my github account
-- ⚡ I’m currently learning JAVA EE , ASP.NET 
+- ⚡ I’m currently learning JAVA/JEE , ASP.NET , NoSQL (MongoDB) 
 -  💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
 
 
