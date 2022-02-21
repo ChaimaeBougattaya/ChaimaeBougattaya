@@ -2,6 +2,7 @@
 ###  welcome to my github account
 - ⚡ I’m currently learning JAVA/JEE , ASP.NET , NoSQL (MongoDB) 
 -  💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
+-  🔭 I’m currently working on new project "Creation of a expert system for covid19 diagnosis"
 
 
 <table width="800px">
