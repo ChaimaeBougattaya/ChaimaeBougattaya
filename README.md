@@ -1,6 +1,6 @@
 ###  Hi there 👋
 ###  welcome to my github account
-- ⚡ I’m currently learning JAVA/JEE , ASP.NET , NoSQL (MongoDB) 
+- ⚡ I’m currently learning JAVA/JEE/Hibernate , ASP.NET , NoSQL (MongoDB) 
 -  🔭 I’m currently working on a new project : "Creation of a expert system for covid19 diagnosis"
 -  💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
 
