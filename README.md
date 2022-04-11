@@ -1,6 +1,6 @@
 ###  Hi there 👋
 ###  welcome to my github account
-- ⚡ I’m currently learning Spring Boot , Angular , RestFull 
+- ⚡ I’m currently learning Spring Boot/security , AngularJs , RestFull 
 - 💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
 
 <table width="800px">
