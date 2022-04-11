@@ -1,7 +1,6 @@
 ###  Hi there 👋
 ###  welcome to my github account
-- ⚡ I’m currently learning Spring Boot , Angular <!--
-- 🔭 I’m currently working on a new project : "Creation of a expert system for covid19 diagnosis" -->
+- ⚡ I’m currently learning Spring Boot , Angular , RestFull 
 - 💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
 
 <table width="800px">
@@ -26,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on a new project : "Creation of a expert system for covid19 diagnosis" 
 -->
