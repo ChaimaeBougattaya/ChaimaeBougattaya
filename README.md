@@ -1,6 +1,6 @@
 ###  Hi there 👋
 ###  welcome to my github account
-- ⚡ I’m currently learning Spring Boot , Spring security , JWT , RestFull , Angular 
+<!-- - ⚡ I’m currently learning Spring Boot , Spring security , JWT , RestFull , Angular -->
 - 💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
 
 <table width="800px">
