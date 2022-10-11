@@ -1,6 +1,6 @@
 ###  Hi there 👋
 ###  welcome to my github account
-- ⚡ I’m currently learning Mobile Application Development : Flutter - Dart
+
 - 💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
 
 <table width="800px">
@@ -12,7 +12,7 @@
 
 </td>
 
-<!--
+<!-- - ⚡ I’m currently learning .NET
 **ChaimaeBougattaya/ChaimaeBougattaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
