@@ -1,7 +1,7 @@
 ###  Hi there 👋
 ###  welcome to my github account
 
-- 💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya-aab222206/
+- 💬 How to reach me: https://www.linkedin.com/in/chaimae-bougattaya/
 
 <table width="800px">
 <tr>
